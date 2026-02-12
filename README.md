@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Granthik Som
 
 I am a student with a strong interest in cross platform app dev and low level programing.  
 I love building things that looks aesthetic and like the way apple design their ui.
