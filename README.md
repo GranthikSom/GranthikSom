@@ -7,27 +7,15 @@ I love building things that looks aesthetic and like the way apple design their 
 - 📱 cross platform app dev using flutter framework
 - 🧠 rust in low level programming
  Projects
+
 🔹 [Music app]
-**What it is:**  
 aesthetic music app 
-
-**What I did:**  
 i solo build it
-
-**Tech / Tools:**  
-Flutter 
+Tools: Flutter 
 
 🔹 [SEDO] (not completed)
-**What it is:**  
-…
+ Tools:**  
 
-**What I did:**  
-…
-
-**Tech / Tools:**  
-…
-
----
 
 ## 🌱 Currently Learning
 - low level programing
