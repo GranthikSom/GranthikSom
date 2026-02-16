@@ -8,12 +8,12 @@ I love building things that looks aesthetic and like the way apple design their 
 - 🧠 rust in low level programming
 
  Projects
-🔹 [Music app]
+# [Music app]
 - aesthetic music app 
 - i solo build it
 - Tools: Flutter 
 
-🔹 [SEDO] (not completed)
+# [SEDO] (not completed)
  - Tools:**  
 
 
