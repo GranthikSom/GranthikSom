@@ -1,10 +1,5 @@
- _______  ______    _______  __    _  _______  __   __  ___   ___   _ 
-|       ||    _ |  |   _   ||  |  | ||       ||  | |  ||   | |   | | |
-|    ___||   | ||  |  |_|  ||   |_| ||_     _||  |_|  ||   | |   |_| |
-|   | __ |   |_||_ |       ||       |  |   |  |       ||   | |      _|
-|   ||  ||    __  ||       ||  _    |  |   |  |       ||   | |     |_ 
-|   |_| ||   |  | ||   _   || | |   |  |   |  |   _   ||   | |    _  |
-|_______||___|  |_||__| |__||_|  |__|  |___|  |__| |__||___| |___| |_|
+<img width="1506" height="228" alt="ASCII Art Text" src="https://github.com/user-attachments/assets/21568151-6112-419e-9bc1-813b13b59148" />
+
 
 I am a student with a strong interest in cross platform app dev and low level programing.  
 I love building things that looks aesthetic and like the way apple design their ui.
