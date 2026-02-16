@@ -9,12 +9,12 @@ I love building things that looks aesthetic and like the way apple design their 
  Projects
 
 🔹 [Music app]
-aesthetic music app 
-i solo build it
-Tools: Flutter 
+- aesthetic music app 
+- i solo build it
+- Tools: Flutter 
 
 🔹 [SEDO] (not completed)
- Tools:**  
+ - Tools:**  
 
 
 ## 🌱 Currently Learning
