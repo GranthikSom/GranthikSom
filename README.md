@@ -1,4 +1,4 @@
-<img width="1506" height="228" alt="ASCII Art Text" src="https://github.com/user-attachments/assets/21568151-6112-419e-9bc1-813b13b59148" />
+<img width="1285" height="194" alt="ASCII Art Text (1)" src="https://github.com/user-attachments/assets/20c56de6-1691-4da5-9ea5-81b76f0d3b30" />
 
 
 I am a student with a strong interest in cross platform app dev and low level programing.  
