@@ -2,18 +2,18 @@
 
 
 I am a student with a strong interest in cross platform app dev and low level programing.  
-I love building things that looks aesthetic and like the way apple design their ui.
+I love building things that looks aesthetic and easy to use.
 
  Interests
-- 📱 cross platform app dev using flutter framework
-- 🧠 rust in low level programming
+-  cross platform app dev using flutter framework
+-  rust in low level programming
 
 ##Projects
 
  [Music app]
  >- aesthetic music app
  >- i solo build it
- >-  Tools: Flutter 
+ >- Tools: Flutter 
 
  [SEDO] (not completed)
 > Tools:**  
