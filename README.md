@@ -19,21 +19,29 @@ I love building things that looks aesthetic and easy to use.
 ## Projects
 
  [Music app]
- >- aesthetic music app
+ 
+ > a music app where you can listen to music and post your own music
+ >- aesthetic ui
  >- i solo build it
  >- Tools: Flutter
 
  [Simple Weather App]
+ 
  >- weather app
  >- using lottie animation and openapi
  >- Tools: Flutter
 
 
  [SEDO] (not completed)
-> Tools:**  
+ 
+> android auto/ Apple car play for your bike or car
+>
+> it will run on your old device (mimic a car play)
+>- Tools:**  
 
 
  Currently Learning
+ 
 - low level programing
 - mastering flutter dev
 
