@@ -6,8 +6,8 @@ I love building things that looks aesthetic and easy to use.
 
 
 ## Interests
--  cross platform app dev using flutter framework
--  rust in low level programming
+-  cross platform app dev using flutter framework, i mainly work with flutter building professional cross platform apps
+-  rust for low level programming, i want to learn how electronics work
 
 
 ![GranthikSom's Contributions](https://github.pumbas.net/api/contributions/GranthikSom?colour=00ff00&dotColour=808080&bgColour=0d1117&title=My%20GitHub%20Activity)
