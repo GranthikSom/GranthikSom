@@ -21,7 +21,13 @@ I love building things that looks aesthetic and easy to use.
  [Music app]
  >- aesthetic music app
  >- i solo build it
- >- Tools: Flutter 
+ >- Tools: Flutter
+
+ [Simple Weather App]
+ >- weather app
+ >- using lottie animation and openapi
+ >- Tools: Flutter
+
 
  [SEDO] (not completed)
 > Tools:**  
