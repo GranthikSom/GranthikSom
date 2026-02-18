@@ -40,7 +40,7 @@ I love building things that looks aesthetic and easy to use.
 >- Tools:**  
 
 
- Currently Learning
+## Currently Learning
  
 - low level programing
 - mastering flutter dev
