@@ -35,7 +35,7 @@ I love building things that looks aesthetic and easy to use.
  [SEDO] (not completed)
  
 > android auto/ Apple car play for your bike or car
->
+
 > it will run on your old device (mimic a car play)
 >- Tools:**  
 
