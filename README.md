@@ -5,7 +5,7 @@ I am a student with a strong interest in cross platform app dev and low level pr
 I love building things that looks aesthetic and easy to use.
 
 
-## Interests :
+# Interests :
 -  cross platform app dev using flutter framework, i mainly work with flutter building professional cross platform apps
 -  rust for low level programming, i want to learn how electronics work
 
@@ -16,7 +16,7 @@ I love building things that looks aesthetic and easy to use.
 
 
 
-## Projects :
+# Projects :
 
  [Music app]
  
@@ -40,7 +40,7 @@ I love building things that looks aesthetic and easy to use.
 >- Tools:**  
 
 
-## Currently Learning
+# Currently Learning
  
 - low level programing
 - mastering flutter dev
