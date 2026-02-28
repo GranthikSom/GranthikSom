@@ -20,7 +20,7 @@ my Portfolio : https://granthiksom.github.io/portfolio_host/
 
 # Projects :
 
- [Music app]
+ [MUSIX]
  
  > a music app where you can listen to music and post your own music
  >- aesthetic ui
