@@ -4,7 +4,7 @@
 I am a student with a strong interest in cross platform app dev and low level programing.  
 I love building things that looks aesthetic and easy to use.
 
-my Portfolio : https://granthiksom.github.io/portfolio_host/
+my Portfolio : https://granthiksom.github.io/portfolio_host
 
 
 # Interests :
