@@ -46,7 +46,7 @@ my Portfolio : https://granthiksom.github.io/portfolio_host
  
 - low level programing
 - mastering flutter dev
-
+- learning bloc state management 
 
 > “Building, learning, and leveling up every day.”
 
