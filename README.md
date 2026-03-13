@@ -22,7 +22,7 @@ my Portfolio : https://granthiksom.github.io/portfolio_host
 
  [MUSIX]
  
- > a music app where you can listen to music and post your own music
+ >- a music app where you can listen to music and post your own music
  >- aesthetic ui
  >- i solo build it
  >- Tools: Flutter
