@@ -23,15 +23,14 @@ my Portfolio : https://granthiksom.github.io/portfolio_host
  [MUSIX]
  
  >- a music app where you can listen to music and post your own music
- >- aesthetic ui
- >- i solo build it
- >- Tools: Flutter
+ >- aesthetic ui and have tons of feature 
+ >- Tools: Flutter,pocketbase,bloc
 
  [Simple Weather App]
  
  >- weather app
  >- using lottie animation and openapi
- >- Tools: Flutter
+ >- Tools: Flutter,open weather api
 
 
  [SEDO] (not completed)
