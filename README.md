@@ -32,12 +32,12 @@ my Portfolio : https://portfolio-kappa-green-79.vercel.app/
  >- weather app
  >- using lottie animation and openapi
  >- Tools: Flutter, open weather api
- >- [Check it out →](https://github.com/GranthikSom/texty-text-editor) 
+ >- [Check it out →](https://github.com/GranthikSom/) 
 
  [Texty] ✨
  
- >- A modern, lightweight code editor with vim-style keybindings built with Flutter
- >- Features: Vim-style editing (Normal, Insert, Command modes), File Explorer, Integrated Terminal, Syntax Highlighting
+ >- A modern, lightweight code editor built with Flutter
+ >- Features: File Explorer, Integrated Terminal
  >- Tools: Flutter, Provider
  >- [Check it out →](https://github.com/GranthikSom/texty-text-editor)
 
