@@ -41,7 +41,7 @@ my Portfolio : https://portfolio-kappa-green-79.vercel.app/
  >- Tools: Flutter, Provider
  >- [Check it out →](https://github.com/GranthikSom/texty-text-editor)
 
- [SEDO] 🚗 (not completed)
+ [SEDO] 🚗 
  
  >- android auto/ Apple car play for your bike or car
  >- it will run on your old device (mimic a car play)
