@@ -45,7 +45,8 @@ my Portfolio : https://portfolio-kappa-green-79.vercel.app/
  
  >- android auto/ Apple car play for your bike or car
  >- it will run on your old device (mimic a car play)
- >- Tools:**
+ >- Tools: google map api , flutter
+ >- device: honor 7c android 8 (oreo)
  >- [Check it out →](https://github.com/GranthikSom/sedo) 
 
 
