@@ -27,13 +27,14 @@ my Portfolio : https://portfolio-kappa-green-79.vercel.app/
  >- Tools: Flutter, pocketbase, bloc
  >- [Check it out →](https://github.com/GranthikSom/musix) 
 
- [Simple Weather App] 🌤️
+ [SEDO] 🚗 
  
- >- weather app
- >- using lottie animation and openapi
- >- Tools: Flutter, open weather api
- >- [Check it out →](https://github.com/GranthikSom/) 
-
+ >- android auto/ Apple car play for your bike or car
+ >- it will run on your old device (mimic a car play)
+ >- Tools: google map api , flutter
+ >- device: honor 7c android 8 (oreo)
+ >- [Check it out →](https://github.com/GranthikSom/sedo)
+ 
  [Texty] ✨
  
  >- A modern, lightweight code editor built with Flutter
@@ -41,13 +42,14 @@ my Portfolio : https://portfolio-kappa-green-79.vercel.app/
  >- Tools: Flutter, Provider
  >- [Check it out →](https://github.com/GranthikSom/texty-text-editor)
 
- [SEDO] 🚗 
+ [Simple Weather App] 🌤️
  
- >- android auto/ Apple car play for your bike or car
- >- it will run on your old device (mimic a car play)
- >- Tools: google map api , flutter
- >- device: honor 7c android 8 (oreo)
- >- [Check it out →](https://github.com/GranthikSom/sedo) 
+ >- weather app
+ >- using lottie animation and openapi
+ >- Tools: Flutter, open weather api
+ >- [Check it out →](https://github.com/GranthikSom/) 
+
+ 
 
 
 # Currently Learning
