@@ -3,12 +3,7 @@
 my Portfolio : https://portfolio-kappa-green-79.vercel.app/
 
 # 🚀 About Me
->- name: Granthik
->- role: Cross Platform App Developer
->- focus: Flutter + System Level Thinking
->- learning: Rust & Electronics
->- goal: Build aesthetic + powerful apps
-
+I’m a college student and developer focused on building cross-platform applications using Flutter, with a strong interest in low-level programming and system design. I enjoy creating products that are both visually appealing and easy to use, while continuously exploring Rust and how software interacts with hardware.
 
 
 # 💡 Interests
