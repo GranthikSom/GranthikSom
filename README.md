@@ -1,19 +1,21 @@
 <img width="1285" height="194" alt="ASCII Art Text (1)" src="https://github.com/user-attachments/assets/20c56de6-1691-4da5-9ea5-81b76f0d3b30" />
 
+my Portfolio : https://portfolio-kappa-green-79.vercel.app/
 
-🚀 About Me
+# 🚀 About Me
 >- name: Granthik
 >- role: Cross Platform App Developer
 >- focus: Flutter + System Level Thinking
 >- learning: Rust & Electronics
 >- goal: Build aesthetic + powerful apps
 
-my Portfolio : https://portfolio-kappa-green-79.vercel.app/
 
 
-# Interests :
--  cross platform app dev using flutter framework, i mainly work with flutter building professional cross platform apps
--  rust for low level programming, i want to learn how electronics work
+# 💡 Interests
+>- 📱 Cross-platform apps using Flutter
+>- ⚙️ Low-level programming with Rust
+>- 🔌 Understanding electronics & systems
+>- 🎨 Crafting beautiful & intuitive UI
 
 
 ![Contribution Graph](https://github.pumbas.net/api/contributions/GranthikSom?colour=00ff00&dotColour=808080&bgColour=0d1117&title=My%20GitHub%20Activity)
