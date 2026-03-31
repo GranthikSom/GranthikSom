@@ -12,7 +12,7 @@ my Portfolio : https://portfolio-kappa-green-79.vercel.app/
 -  rust for low level programming, i want to learn how electronics work
 
 
-![GranthikSom's Contributions](https://github.pumbas.net/api/contributions/GranthikSom?colour=00ff00&dotColour=808080&bgColour=0d1117&title=My%20GitHub%20Activity)
+![Contribution Graph](https://github.pumbas.net/api/contributions/GranthikSom?colour=00ff00&dotColour=808080&bgColour=0d1117&title=My%20GitHub%20Activity)
 
 
 
@@ -59,3 +59,6 @@ my Portfolio : https://portfolio-kappa-green-79.vercel.app/
 - learning bloc state management 
 
 > "Building, learning, and leveling up every day."
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
