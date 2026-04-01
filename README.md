@@ -50,7 +50,7 @@ I’m a college student and developer focused on building cross-platform applica
  >- weather app
  >- using lottie animation and openapi
  >- Tools: Flutter, open weather api
- >- [Check it out →](https://github.com/GranthikSom/) 
+ >- [Check it out →](https://github.com/GranthikSom/Weather-app-) 
 
  
 
