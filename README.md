@@ -26,6 +26,7 @@ I’m a college student and developer focused on building cross-platform applica
  >- a music app where you can listen to music and post your own music
  >- aesthetic ui and have tons of feature 
  >- Tools: Flutter, pocketbase, bloc
+ >- device: cross platform support
  >- [Check it out →](https://github.com/GranthikSom/musix) 
 
  [SEDO] 🚗 
@@ -41,6 +42,7 @@ I’m a college student and developer focused on building cross-platform applica
  >- A modern, lightweight code editor built with Flutter
  >- Features: File Explorer, Integrated Terminal
  >- Tools: Flutter, Provider
+ >- os: macos specific 
  >- [Check it out →](https://github.com/GranthikSom/texty-text-editor)
 
  [Simple Weather App] 🌤️
