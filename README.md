@@ -59,7 +59,7 @@ I’m a college student and developer focused on building cross-platform applica
  
 - low level programing
 - mastering flutter dev
-- learning bloc state management 
+- memory management in flutter
 
 > "Building, learning, and leveling up every day."
 <p align="center">
