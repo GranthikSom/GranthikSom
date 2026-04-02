@@ -11,6 +11,7 @@ I’m a college student and developer focused on building cross-platform applica
 >- ⚙️ Low-level programming with Rust
 >- 🔌 Understanding electronics & systems
 >- 🎨 Crafting beautiful & intuitive UI
+>- 🚀 Optimizing memory usage in flutter
 
 
 ![Contribution Graph](https://github.pumbas.net/api/contributions/GranthikSom?colour=00ff00&dotColour=808080&bgColour=0d1117&title=My%20GitHub%20Activity)
