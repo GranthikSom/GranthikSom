@@ -15,6 +15,7 @@ I’m a college student and developer focused on building cross-platform applica
 
 # tap to view [Projects](https://github.com/GranthikSom/projects) 
 # tap to view [Resume](https://github.com/GranthikSom/projects) 
+# tap to view [Portfolio](https://portfolio-kappa-green-79.vercel.app/)
 
 
 ![Contribution Graph](https://github.pumbas.net/api/contributions/GranthikSom?colour=00ff00&dotColour=808080&bgColour=0d1117&title=My%20GitHub%20Activity)
