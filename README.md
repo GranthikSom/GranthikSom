@@ -13,18 +13,11 @@ I’m a college student and developer focused on building cross-platform applica
 >- 🎨 Crafting beautiful & intuitive UI
 >- 🚀 Optimizing memory usage in flutter
 
+# tap to view [Projects](https://github.com/GranthikSom/projects) 
+# tap to view [Resume](https://github.com/GranthikSom/projects) 
+
 
 ![Contribution Graph](https://github.pumbas.net/api/contributions/GranthikSom?colour=00ff00&dotColour=808080&bgColour=0d1117&title=My%20GitHub%20Activity)
-
-
-
-
-# tap to view [Projects](https://github.com/GranthikSom/projects) 
-
- 
-
- 
-
 
 # Currently Learning
  
