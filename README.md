@@ -6,16 +6,17 @@ my Portfolio : https://portfolio-kappa-green-79.vercel.app/
 I’m a college student and developer focused on building cross-platform applications using Flutter, with a strong interest in low-level programming and system design. I enjoy creating products that are both visually appealing and easy to use, while continuously exploring Rust and how software interacts with hardware.
 
 
+
+*tab to view ⏬️
+#  [Projects](https://github.com/GranthikSom/projects)   [Resume](https://github.com/GranthikSom/projects)   [Portfolio](https://portfolio-kappa-green-79.vercel.app/)
+
+
 # 💡 Interests
 >- 📱 Cross-platform apps using Flutter
 >- ⚙️ integration of multiple languages for local logic in flutter
 >- 🔌 Understanding electronics & systems
 >- 🎨 Crafting beautiful & intuitive UI
 >- 🚀 Optimizing memory usage in flutter
-
-# tap to view [Projects](https://github.com/GranthikSom/projects) 
-# tap to view [Resume](https://github.com/GranthikSom/projects) 
-# tap to view [Portfolio](https://portfolio-kappa-green-79.vercel.app/)
 
 
 ![Contribution Graph](https://github.pumbas.net/api/contributions/GranthikSom?colour=00ff00&dotColour=808080&bgColour=0d1117&title=My%20GitHub%20Activity)
