@@ -8,7 +8,7 @@ I’m a college student and developer focused on building cross-platform applica
 
 # 💡 Interests
 >- 📱 Cross-platform apps using Flutter
->- ⚙️ Low-level programming with Rust
+>- ⚙️ integration of multiple languages for local logic in flutter
 >- 🔌 Understanding electronics & systems
 >- 🎨 Crafting beautiful & intuitive UI
 >- 🚀 Optimizing memory usage in flutter
