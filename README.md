@@ -19,9 +19,7 @@ I’m a college student and developer focused on building cross-platform applica
 
 
 
-
-# Projects 
-[view projects  →](https://github.com/GranthikSom/projects) 
+# [Projects](https://github.com/GranthikSom/projects) tap to view
 
  
 
