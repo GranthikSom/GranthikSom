@@ -11,6 +11,8 @@ I’m a college student and developer focused on building cross-platform applica
 #  [Projects](https://github.com/GranthikSom/projects)   [Resume](https://github.com/GranthikSom/projects)   [Portfolio](https://portfolio-kappa-green-79.vercel.app/)
 
 
+
+         
 # 💡 Interests
 >- 📱 Cross-platform apps using Flutter
 >- ⚙️ integration of multiple languages for local logic in flutter
