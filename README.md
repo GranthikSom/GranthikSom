@@ -8,7 +8,7 @@ I’m a college student and developer focused on building cross-platform applica
 
 
 *tab to view ⏬️
-#  [Projects](https://github.com/GranthikSom/projects)   [Resume](https://github.com/GranthikSom/projects)   [Portfolio](https://portfolio-kappa-green-79.vercel.app/)
+#  [Projects](https://github.com/GranthikSom/projects)   [Resume](https://github.com/GranthikSom/Resume)   [Portfolio](https://portfolio-kappa-green-79.vercel.app/)
 
 
 
