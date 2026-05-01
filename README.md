@@ -9,7 +9,7 @@
 
 
 *tab to view ⏬️
-#  [Projects](https://github.com/GranthikSom/projects)   [Resume](https://github.com/GranthikSom/Resume)   [Portfolio](https://portfolio-kappa-green-79.vercel.app/)
+#  [Projects](https://github.com/GranthikSom/projects)   [Resume](https://github.com/GranthikSom/Resume)   [Portfolio](https://portfolio-web-5nkk.vercel.app/)
 
 
 
