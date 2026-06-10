@@ -1,84 +1,128 @@
-<div align="center">
-
+# <div align="center">
 <img width="1285" height="194" alt="ASCII Art Text (1)" src="https://github.com/user-attachments/assets/20c56de6-1691-4da5-9ea5-81b76f0d3b30" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Flutter+Developer+%7C+Systems+Explorer;Building+Fast+%2B+Beautiful+Software" />
 
-<br/>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Flutter+%7C+Dart+%7C+Systems+Dev;Building+cross-platform+apps;Low-level+%26+memory-obsessed;UI+that+feels+as+good+as+it+looks)](https://git.io/typing-svg)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
+</p>
 
-</div>
-
----
-
-## `$ whoami`
-
-> Developer focused on building **cross-platform apps** with Flutter, with a strong interest in **low-level programming** and system design. I enjoy crafting products that are both visually sharp and intuitive, while continuously exploring how software interacts with hardware.
-
----
-
-## `$ ls ./stack`
-
-<div align="center">
-
-**Languages & Frameworks**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
-
-**Tools & Platforms**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=GranthikSom&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## `$ cat interests.md`
+## 💫 About Me
 
-| | Focus | Details |
-|---|---|---|
-| 📱 | **Cross-platform apps** | Flutter-first, pixel-perfect on every platform |
-| ⚙️ | **Multi-language integration** | Native logic & FFI in Flutter |
-| 🔌 | **Electronics & systems** | Where software meets hardware |
-| 🎨 | **Intuitive UI** | Beautiful interfaces that are easy to use |
-| 🚀 | **Memory optimization** | Squeezing performance out of Flutter & Dart |
+```bash
+$ whoami
 
----
+Developer focused on building cross-platform applications
+using Flutter.
 
-## `$ cat learning.log`
-
-```
-[▓▓▓▓▓▓▓▓▓░]  Low-level programming
-[▓▓▓▓▓▓▓▓░░]  Mastering Flutter dev
-[▓▓▓▓▓▓░░░░]  Memory management in Flutter
+Interested in:
+• Systems Programming
+• Memory Optimization
+• Native Integrations & FFI
+• UI/UX Engineering
+• Software ↔ Hardware Interaction
 ```
 
-> *"Building, learning, and leveling up every day."*
+I enjoy creating products that are **fast, intuitive, and visually refined**, while constantly exploring what happens beneath the abstraction layers.
 
 ---
 
-## `$ git log --graph`
+## ⚡ Tech Stack
+
+### Languages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,unity" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,vscode,linux,github" />
+</p>
+
+---
+
+## 📊 Current Focus
+
+```text
+Low-Level Programming         █████████░ 90%
+Flutter Development           ████████░░ 80%
+Memory Optimization           ██████░░░░ 60%
+System Design                 ███████░░░ 70%
+```
+
+---
+
+## 🚀 Interests
+
+ 
+| Area                     | Description                                |
+| ------------------------ | ------------------------------------------ |
+| 📱 Cross-platform Apps   | Flutter-first, pixel-perfect experiences   |
+| ⚙️ Native & FFI          | Bridging Dart with native performance      |
+| 🔌 Electronics & Systems | Where hardware meets software              |
+| 🎨 UI Engineering        | Beautiful and intuitive interfaces         |
+| 🚀 Optimization          | Performance and memory-focused development |
+
+---
+
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-![Contribution Graph](https://github.pumbas.net/api/contributions/GranthikSom?colour=00ff00&dotColour=808080&bgColour=0d1117&title=My%20GitHub%20Activity)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GranthikSom&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GranthikSom&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GranthikSom&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## `$ open ./links`
+## 🧠 Developer Philosophy
+
+```cpp
+while(alive)
+{
+    learn();
+    build();
+    optimize();
+    share();
+}
+```
+
+> *"Building, learning, and improving one commit at a time."*
+
+---
+
+## 🌐 Connect
 
 <div align="center">
 
-[![Projects](https://img.shields.io/badge/📁_Projects-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GranthikSom/projects)
-[![Resume](https://img.shields.io/badge/📄_Resume-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GranthikSom/Resume)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-5nkk.vercel.app/)
+[![Projects](https://img.shields.io/badge/Projects-181717?style=for-the-badge\&logo=github)](https://github.com/GranthikSom?tab=repositories)
+
+[![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge\&logo=readthedocs)](https://github.com/GranthikSom/Resume)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-web-5nkk.vercel.app/)
 
 </div>
 
@@ -86,6 +130,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+### 💻 Building Things That Feel Good To Use
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
 
 </div>
