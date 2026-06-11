@@ -118,7 +118,7 @@ while(alive)
 
 <div align="center">
 
-[![Projects](https://img.shields.io/badge/Projects-181717?style=for-the-badge\&logo=github)](https://github.com/GranthikSom?tab=repositories)
+[![Projects](https://img.shields.io/badge/Projects-181717?style=for-the-badge\&logo=github)](https://github.com/GranthikSom/Projects?tab=repositories)
 
 [![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge\&logo=readthedocs)](https://github.com/GranthikSom/Resume)
 
