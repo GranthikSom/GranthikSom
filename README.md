@@ -110,13 +110,13 @@ while(alive)
 }
 ```
 
-> *"Building, learning, and improving one commit at a time."*
+
 
 ---
 
 ## 🌐 Connect
 
-<div align="center">
+<div align="center"> 
 
 [![Projects](https://img.shields.io/badge/Projects-181717?style=for-the-badge\&logo=github)](https://github.com/GranthikSom/Projects?tab=repositories)
 
