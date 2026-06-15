@@ -75,6 +75,22 @@ System Design                 ███████░░░ 70%
 | 🎨 UI Engineering        | Beautiful and intuitive interfaces         |
 | 🚀 Optimization          | Performance and memory-focused development |
 
+
+---
+
+## 🌐 Connect
+ (tap to open link)
+<div align="center">
+  <a href="https://github.com/GranthikSom/Projects?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github" alt="Projects"  height="60" width="250">
+  </a>
+  <a href="https://github.com/GranthikSom/Resume">
+    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readthedocs" alt="Resume" height="60" width="250">
+  </a>
+  <a href="https://portfolio-web-5nkk.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="60" width="250">
+  </a>
+</div>
 ---
 
 
@@ -112,22 +128,6 @@ while(alive)
 
 
 
----
-
-## 🌐 Connect
- (tap to open link)
-<div align="center">
-  <a href="https://github.com/GranthikSom/Projects?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github" alt="Projects"  height="60" width="250">
-  </a>
-  <a href="https://github.com/GranthikSom/Resume">
-    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readthedocs" alt="Resume" height="60" width="250">
-  </a>
-  <a href="https://portfolio-web-5nkk.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="60" width="250">
-  </a>
-</div>
----
 
 <div align="center">
 
