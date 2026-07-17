@@ -17,8 +17,8 @@
   .XMMMMMMMMMMMMMMMMMMMMMMMMK.   WM: Quartz Compositor
     kMMMMMMMMMMMMMMMMMMMMMMd     WM Theme: Blue (Dark)
      ;KMMMMMMMWXXWMMMMMMMk.      Terminal: vscode
-       .cooc,.    .,coo:.        CPU: Apple M2
-                                 GPU: Apple M2
+       .cooc,.    .,coo:.       
+                                
                                
 </pre>
 
