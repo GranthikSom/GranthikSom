@@ -1,5 +1,34 @@
+
+
+<pre>
+                    'c.
+                 ,xNMM.
+               .OMMMMo
+               OMMM0,            granthiksom@Granthiks-MacBook-Pro.local
+     .;loddo:' loolloddol;.      ---------------------------------------
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    OS: Tahoe26
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Host: Granthik Som
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Kernel: mac
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Uptime: 20+ years
+:MMMMMMMMMMMMMMMMMMMMMMMM:       Packages: 206 (brew)
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.9
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Resolution: 1440x900, 1920x1080
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   DE: Aqua
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   WM: Quartz Compositor
+    kMMMMMMMMMMMMMMMMMMMMMMd     WM Theme: Blue (Dark)
+     ;KMMMMMMMWXXWMMMMMMMk.      Terminal: vscode
+       .cooc,.    .,coo:.        CPU: Apple M2
+                                 GPU: Apple M2
+                               
+</pre>
+
+
+
+
+
+
 # <div align="center">
-<img width="1285" height="194" alt="ASCII Art Text (1)" src="https://github.com/user-attachments/assets/20c56de6-1691-4da5-9ea5-81b76f0d3b30" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Flutter+Developer+%7C+Systems+Explorer;Building+Fast+%2B+Beautiful+Software" />
 
 <br>
