@@ -33,11 +33,7 @@
 
 <br>
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
+
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=GranthikSom&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -45,26 +41,19 @@
 </div>
 
 ---
+(tap to open link)
+<div align="center">
+  <a href="https://github.com/GranthikSom/Projects?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github" alt="Projects"  height="60" width="250">
+  </a>
+  <a href="https://github.com/GranthikSom/Resume">
+    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readthedocs" alt="Resume" height="60" width="250">
+  </a>
+  <a href="https://portfolio-web-5nkk.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="60" width="250">
+  </a>
+</div>
 
-## 💫 About Me
-
-```bash
-$ whoami
-
-Developer focused on building cross-platform applications
-using Flutter.
-
-Interested in:
-• Systems Programming
-• Memory Optimization
-• Native Integrations & FFI
-• UI/UX Engineering
-• Software ↔ Hardware Interaction
-```
-
-I enjoy creating products that are **fast, intuitive, and visually refined**, while constantly exploring what happens beneath the abstraction layers.
-
----
 
 ## ⚡ Tech Stack
 
@@ -82,16 +71,7 @@ I enjoy creating products that are **fast, intuitive, and visually refined**, wh
 
 ---
 
-## 📊 Current Focus
 
-```text
-Low-Level Programming         █████████░ 90%
-Flutter Development           ████████░░ 80%
-Memory Optimization           ██████░░░░ 60%
-System Design                 ███████░░░ 70%
-```
-
----
 
 ## 🚀 Interests
 
@@ -107,20 +87,7 @@ System Design                 ███████░░░ 70%
 
 ---
 
-## 🌐 Connect
- (tap to open link)
-<div align="center">
-  <a href="https://github.com/GranthikSom/Projects?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github" alt="Projects"  height="60" width="250">
-  </a>
-  <a href="https://github.com/GranthikSom/Resume">
-    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readthedocs" alt="Resume" height="60" width="250">
-  </a>
-  <a href="https://portfolio-web-5nkk.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="60" width="250">
-  </a>
-</div>
-
+ 
 
 
 ## 📈 GitHub Analytics
@@ -143,17 +110,6 @@ System Design                 ███████░░░ 70%
 
 ---
 
-## 🧠 Developer Philosophy
-
-```cpp
-while(alive)
-{
-    learn();
-    build();
-    optimize();
-    share();
-}
-```
 
 
 
