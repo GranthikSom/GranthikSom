@@ -41,7 +41,7 @@
 </div>
 
 ---
-(tap to open link)
+
 <div align="center">
   <a href="https://github.com/GranthikSom/Projects?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github" alt="Projects"  height="60" width="250">
@@ -55,7 +55,6 @@
 </div>
 
 
-## ⚡ Tech Stack
 
 ### Languages & Frameworks
 
