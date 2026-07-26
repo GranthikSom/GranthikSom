@@ -23,6 +23,10 @@
 </pre>
 
 
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=GranthikSom&label=Profile%20Views&color=0e75b6&style=flat" />
+
 
 
 
@@ -34,13 +38,7 @@
 <br>
 
 
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=GranthikSom&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
 
 <div align="center">
   <a href="https://github.com/GranthikSom/Projects?tab=repositories">
