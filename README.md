@@ -15,7 +15,7 @@
  kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Resolution: 576 megapixels
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   DE: Aqua
   .XMMMMMMMMMMMMMMMMMMMMMMMMK.   WM: Quartz Compositor
-    kMMMMMMMMMMMMMMMMMMMMMMd     WM Theme: Blue (Dark)
+    kMMMMMMMMMMMMMMMMMMMMMMd     Theme: South Asian
      ;KMMMMMMMWXXWMMMMMMMk.      Terminal: Ghosty
        .cooc,.    .,coo:.       
                                 
