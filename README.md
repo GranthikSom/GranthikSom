@@ -6,13 +6,13 @@
                .OMMMMo
                OMMM0,            granthiksom@Granthiks-MacBook-Pro.local
      .;loddo:' loolloddol;.      ---------------------------------------
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    OS: Tahoe26
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    OS: GenZ
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Host: Granthik Som
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Kernel: mac
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Kernel: brain
 ;MMMMMMMMMMMMMMMMMMMMMMMM:       Uptime: 20+ years
-:MMMMMMMMMMMMMMMMMMMMMMMM:       Packages: 206 (brew)
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.9
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Resolution: 1440x900, 1920x1080
+:MMMMMMMMMMMMMMMMMMMMMMMM:       Packages: 206 (bones)
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: Calcium
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Resolution: 576 megapixels
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   DE: Aqua
   .XMMMMMMMMMMMMMMMMMMMMMMMMK.   WM: Quartz Compositor
     kMMMMMMMMMMMMMMMMMMMMMMd     WM Theme: Blue (Dark)
