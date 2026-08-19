@@ -1,10 +1,4 @@
 
-# <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Flutter+Developer+%7C+Systems+Explorer;Building+Fast+%2B+Beautiful+Software" />
-
-<br>
-
 
 <pre>
                     'c.
@@ -33,6 +27,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=GranthikSom&label=Profile%20Views&color=0e75b6&style=flat" />
 
+
+# <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Flutter+Developer+%7C+Systems+Explorer;Building+Fast+%2B+Beautiful+Software" />
+
+<br>
 
 
 
