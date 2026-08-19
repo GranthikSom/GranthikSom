@@ -113,7 +113,7 @@
 
 <div align="center">
 
-### 💻 Building Things That Feel Good To Use
+### 💻 
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
 
