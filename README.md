@@ -1,5 +1,3 @@
-
-
 <pre>
                     'c.
                  ,xNMM.
@@ -19,102 +17,132 @@
      ;KMMMMMMMWXXWMMMMMMMk.      Terminal: Ghosty
        .cooc,.    .,coo:.       
                                 
-                               
 </pre>
 
+<div align="center">
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=GranthikSom&label=Profile%20Views&color=00F5FF&style=flat-square" alt="Profile views" />
 
-<img src="https://komarev.com/ghpvc/?username=GranthikSom&label=Profile%20Views&color=0e75b6&style=flat" />
+<br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+%7C+Systems+Explorer;Bridging+Dart+with+Native+Performance;Building+Fast+%2B+Beautiful+Software" alt="Typing SVG" />
 
-# <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Flutter+Developer+%7C+Systems+Explorer;Building+Fast+%2B+Beautiful+Software" />
+</div>
 
 <br>
 
-
-
-
-
-
-
 <div align="center">
   <a href="https://github.com/GranthikSom/Projects?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github" alt="Projects"  height="60" width="32%">
+    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github" alt="Projects" height="45">
   </a>
   <a href="https://github.com/GranthikSom/Resume">
-    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readthedocs" alt="Resume" height="60" width="32%">
+    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readthedocs" alt="Resume" height="45">
   </a>
   <a href="https://portfolio-adse.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="60" width="32%">
+    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="45">
+  </a>
+  <a href="https://www.linkedin.com/in/kaun-granthik12345678/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45">
+  </a>
+  <a href="mailto:granthiksom@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="45">
   </a>
 </div>
 
+<br>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</div>
 
-### Languages & Frameworks
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,unity" />
-</p>
+## 🧑‍💻 About Me
 
-### Tools & Platforms
+<img align="right" width="250" src="https://raw.githubusercontent.com/vsnthdev/vsnthdev/main/gifs/coding.gif" alt="Coding gif" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,git,vscode,linux,github" />
-</p>
+- 🔭 Focused on building **cross-platform apps with Flutter**
+- ⚙️ Exploring **native & FFI** integration for performance-critical features
+- 🔌 Curious about **electronics & embedded systems** — where hardware meets software
+- 🎨 Passionate about clean, intuitive **UI engineering**
+- 🚀 Always optimizing for **speed and memory efficiency**
+- 🌱 Currently leveling up on native tooling and systems-level programming
+
+<br clear="right"/>
 
 ---
 
+## 🛠️ Tech Stack
 
+**Languages & Frameworks**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,c,java,unity" />
+</p>
+
+**Tools & Platforms**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,vscode,linux,github,figma,firebase" />
+</p>
+
+---
 
 ## 🚀 Interests
 
- 
-| Area                     | Description                                |
-| ------------------------ | ------------------------------------------ |
-| 📱 Cross-platform Apps   | Flutter-first, pixel-perfect experiences   |
-| ⚙️ Native & FFI          | Bridging Dart with native performance      |
-| 🔌 Electronics & Systems | Where hardware meets software              |
-| 🎨 UI Engineering        | Beautiful and intuitive interfaces         |
-| 🚀 Optimization          | Performance and memory-focused development |
-
+| Area                     | Description                                 |
+| ------------------------ | -------------------------------------------- |
+| 📱 Cross-platform Apps   | Flutter-first, pixel-perfect experiences     |
+| ⚙️ Native & FFI          | Bridging Dart with native performance        |
+| 🔌 Electronics & Systems | Where hardware meets software                |
+| 🎨 UI Engineering        | Beautiful and intuitive interfaces           |
+| 🚀 Optimization          | Performance and memory-focused development   |
 
 ---
-
- 
-
 
 ## 📈 GitHub Analytics
 
 <div align="center">
 
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GranthikSom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
+<br><br>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GranthikSom&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GranthikSom&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GranthikSom&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GranthikSom&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
+## 📫 Connect With Me
 
+<div align="center">
+  <a href="https://github.com/GranthikSom">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaun-granthik12345678/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:granthiksom@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://portfolio-adse.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<br>
 
 
 
 <div align="center">
 
-### 💻 
+### 💻 Thanks for stopping by!
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer" />
 
 </div>
