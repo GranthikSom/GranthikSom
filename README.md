@@ -49,26 +49,28 @@
   </a>
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</div>
-
-<br>
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="250" src="https://raw.githubusercontent.com/vsnthdev/vsnthdev/main/gifs/coding.gif" alt="Coding gif" />
-
-- 🔭 Focused on building **cross-platform apps with Flutter**
-- ⚙️ Exploring **native & FFI** integration for performance-critical features
-- 🔌 Curious about **electronics & embedded systems** — where hardware meets software
-- 🎨 Passionate about clean, intuitive **UI engineering**
-- 🚀 Always optimizing for **speed and memory efficiency**
-- 🌱 Currently leveling up on native tooling and systems-level programming
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF">
+    </td>
+    <td width="60%">
+      <h3></h3>
+      <ul>
+        <li>🔭 Focused on building <b>cross-platform apps with Flutter</b></li>
+        <li>⚙️ Exploring <b>native & FFI</b> integration for performance-critical features</li>
+        <li>🔌 Curious about <b>electronics & embedded systems</b></li>
+        <li>🎨 Passionate about clean, intuitive <b>UI engineering</b></li>
+        <li>🚀 Always optimizing for <b>speed and memory efficiency</b></li>
+        <li>🌱 Currently leveling up on native tooling and systems-level programming</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
