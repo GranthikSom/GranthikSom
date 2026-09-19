@@ -2,7 +2,7 @@
                     'c.
                  ,xNMM.
                .OMMMMo
-               OMMM0,            granthiksom@Granthiks-MacBook-Pro.local
+               OMMM0,            Granthik's system
      .;loddo:' loolloddol;.      ---------------------------------------
    cKMMMMMMMMMMNWMMMMMMMMMM0:    OS: GenZ
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Host: Granthik Som
