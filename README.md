@@ -2,7 +2,7 @@
                     'c.
                  ,xNMM.
                .OMMMMo
-               OMMM0,            Granthik's system
+               OMMM0,            Granthik's Fetch
      .;loddo:' loolloddol;.      ---------------------------------------
    cKMMMMMMMMMMNWMMMMMMMMMM0:    OS: GenZ
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Host: Granthik Som
