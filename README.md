@@ -56,7 +56,7 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF">
+      <img src="skills.gif" alt="Sedo Demo" width="350" alt="Coding GIF">
     </td>
     <td width="60%">
       <h3></h3>
