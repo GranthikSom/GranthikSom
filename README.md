@@ -1,23 +1,4 @@
-<pre>
-                    'c.
-                 ,xNMM.
-               .OMMMMo
-               OMMM0,            Granthik's Fetch
-     .;loddo:' loolloddol;.      ---------------------------------------
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    OS: GenZ
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Host: Granthik Som
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Kernel: brain
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Uptime: 20+ years
-:MMMMMMMMMMMMMMMMMMMMMMMM:       Packages: 206 (bones)
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: Calcium
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Resolution: 576 megapixels
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   DE: Aqua
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   WM: Quartz Compositor
-    kMMMMMMMMMMMMMMMMMMMMMMd     Theme: South Asian
-     ;KMMMMMMMWXXWMMMMMMMk.      Terminal: Ghosty
-       .cooc,.    .,coo:.       
-                                
-</pre>
+
 
 <div align="center">
 
@@ -52,6 +33,27 @@
 
 
 ## 🧑‍💻 About Me
+
+<pre>
+                    'c.
+                 ,xNMM.
+               .OMMMMo
+               OMMM0,            Granthik's Fetch
+     .;loddo:' loolloddol;.      ---------------------------------------
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    OS: GenZ
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Host: Granthik Som
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Kernel: brain
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Uptime: 20+ years
+:MMMMMMMMMMMMMMMMMMMMMMMM:       Packages: 206 (bones)
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: Calcium
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Resolution: 576 megapixels
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   DE: Aqua
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   WM: Quartz Compositor
+    kMMMMMMMMMMMMMMMMMMMMMMd     Theme: South Asian
+     ;KMMMMMMMWXXWMMMMMMMk.      Terminal: Ghosty
+       .cooc,.    .,coo:.       
+                                
+</pre>
 
 <table>
   <tr>
